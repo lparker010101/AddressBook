@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\AddressBook_Parker\Contact.Services\obj\Debug\netcoreapp3.1\Contact.Services.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\AddressBook_Parker\Contact.Services\obj\Debug\netcoreapp3.1\Contact.Services.AssemblyInfo.cs
+C:\ElevenFiftyProjects\AddressBook_Parker\Contact.Services\obj\Debug\netcoreapp3.1\Contact.Services.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\AddressBook_Parker\Contact.Services\bin\Debug\netcoreapp3.1\AddressBook_Parker.dll
+C:\ElevenFiftyProjects\AddressBook_Parker\Contact.Services\bin\Debug\netcoreapp3.1\ContactModels.dll
+C:\ElevenFiftyProjects\AddressBook_Parker\Contact.Services\bin\Debug\netcoreapp3.1\AddressBook_Parker.pdb
+C:\ElevenFiftyProjects\AddressBook_Parker\Contact.Services\obj\Debug\netcoreapp3.1\Contact.Services.csprojAssemblyReference.cache

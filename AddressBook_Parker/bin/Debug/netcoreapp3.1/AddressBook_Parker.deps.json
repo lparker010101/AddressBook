@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AddressBook_Parker/1.0.0": {
+        "runtime": {
+          "AddressBook_Parker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AddressBook_Parker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

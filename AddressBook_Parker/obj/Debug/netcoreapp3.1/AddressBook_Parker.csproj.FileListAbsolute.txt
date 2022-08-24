@@ -1,0 +1,13 @@
+C:\ElevenFiftyProjects\AddressBook_Parker\AddressBook_Parker\bin\Debug\netcoreapp3.1\AddressBook_Parker.exe
+C:\ElevenFiftyProjects\AddressBook_Parker\AddressBook_Parker\bin\Debug\netcoreapp3.1\AddressBook_Parker.deps.json
+C:\ElevenFiftyProjects\AddressBook_Parker\AddressBook_Parker\bin\Debug\netcoreapp3.1\AddressBook_Parker.runtimeconfig.json
+C:\ElevenFiftyProjects\AddressBook_Parker\AddressBook_Parker\bin\Debug\netcoreapp3.1\AddressBook_Parker.runtimeconfig.dev.json
+C:\ElevenFiftyProjects\AddressBook_Parker\AddressBook_Parker\bin\Debug\netcoreapp3.1\AddressBook_Parker.dll
+C:\ElevenFiftyProjects\AddressBook_Parker\AddressBook_Parker\bin\Debug\netcoreapp3.1\AddressBook_Parker.pdb
+C:\ElevenFiftyProjects\AddressBook_Parker\AddressBook_Parker\obj\Debug\netcoreapp3.1\AddressBook_Parker.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\AddressBook_Parker\AddressBook_Parker\obj\Debug\netcoreapp3.1\AddressBook_Parker.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\AddressBook_Parker\AddressBook_Parker\obj\Debug\netcoreapp3.1\AddressBook_Parker.AssemblyInfo.cs
+C:\ElevenFiftyProjects\AddressBook_Parker\AddressBook_Parker\obj\Debug\netcoreapp3.1\AddressBook_Parker.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\AddressBook_Parker\AddressBook_Parker\obj\Debug\netcoreapp3.1\AddressBook_Parker.dll
+C:\ElevenFiftyProjects\AddressBook_Parker\AddressBook_Parker\obj\Debug\netcoreapp3.1\AddressBook_Parker.pdb
+C:\ElevenFiftyProjects\AddressBook_Parker\AddressBook_Parker\obj\Debug\netcoreapp3.1\AddressBook_Parker.genruntimeconfig.cache
